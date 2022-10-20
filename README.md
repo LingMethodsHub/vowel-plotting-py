@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/551148899.svg)](https://zenodo.org/badge/latestdoi/551148899)
+
 # vowel-plotting
 
 This is an unhelpful readme which will tell you to see the text blocks in the notebook!
