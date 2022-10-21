@@ -3,3 +3,8 @@ citation:
   container-title: "Linguistics Methods Hub"
 doi: 10.5281/zenodo.7232005
 resources: "*csv"
+image: "index_files/figure-html/cell-15-output-1.png"
+twitter-card:
+  image: "index_files/figure-html/cell-15-output-1.png"
+open-graph:
+  image: "index_files/figure-html/cell-15-output-1.png"
